@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586704013 source:c:\users\xonookengg\desktop\sem2lab2\main.cpp
+	<iostream>
+	<string>
+	"Product.h"
+
+1586704013 c:\users\xonookengg\desktop\sem2lab2\product.h
+	<string.h>
+	<iostream>
+
